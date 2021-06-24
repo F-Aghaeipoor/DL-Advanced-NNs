@@ -4,5 +4,6 @@ In this repository, we will walk through the most popular CNNs that were state-o
 
 It is worth mentioning that all these tutorials have been prepared and collected for educational purposes.
 
-![](https://www.researchgate.net/publication/332796173/figure/fig5/AS:962673571278860@1606530673531/Advanced-CNN-model-by-incorporating-convolution-pooling-inception-softmax-layers_W640.jpg)
+
+<img src="https://www.researchgate.net/publication/332796173/figure/fig5/AS:962673571278860@1606530673531/Advanced-CNN-model-by-incorporating-convolution-pooling-inception-softmax-layers_W640.jpg" width="110%">
 
