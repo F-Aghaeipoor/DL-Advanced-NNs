@@ -1,6 +1,6 @@
 
 # Advanced  convolutional neural network (CNN)
-In this repository, we will walk through the most popular CNNs/algorithms that were state-of-the-art at their times and can still work as the base of many well-performimg vision-based models, networks like Inception, ResNet, and MobileNet developed in 2014,2015, and 2017 respectively.
+In this repository, we will walk through some of the most popular CNNs/algorithms that were state-of-the-art at their times and can still work as the base of many well-performimg vision-based models, networks like Inception, ResNet, and MobileNet developed in 2014,2015, and 2017 respectively.
 
 We also review YOLO implementation from scratch to delve deeper into object detection algorithms.
 
